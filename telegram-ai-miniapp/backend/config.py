@@ -1,0 +1,6 @@
+BOT_TOKEN = "8546345807:AAGovmlOYXkEDHl2YXDNK1oePfoABOGaesY"
+
+BASE_URL = "https://aikie.vercel.app/"
+
+IMAGE_PRICE = 10
+VIDEO_PRICE = 50
